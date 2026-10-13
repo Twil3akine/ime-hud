@@ -1,0 +1,9 @@
+.DS_Store
+
+# Nix build outputs
+result
+result-*
+
+# Demo source / temporary files
+*.mov
+palette.png
