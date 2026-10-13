@@ -7,6 +7,8 @@ It shows the current input mode in the center of the screen:
 - `A` for English
 - `あ` for Japanese
 
+![ime-hud demo](assets/demo.gif)
+
 ## Features
 
 - Shows `A` / `あ` when the input source changes
